@@ -1,0 +1,20 @@
+.logo {
+    text-transform: uppercase;
+    color: #252525;
+}
+
+.restart-btn{
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 2px solid #e24ca1;
+    border-radius: 8px;
+    background-color: #e24ca1; 
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    justify-content: center;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
